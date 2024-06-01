@@ -1,0 +1,17 @@
+{
+  "name": "pika-portal",
+  "version": "0.0.1",
+  "description": "pika portal",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.13",
+    "vuepress": "^1.9.10",
+    "vuepress-theme-reco": "^1.6.17"
+  }
+}
